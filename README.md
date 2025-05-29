@@ -94,6 +94,7 @@ By the end of this challenge, you will:
 
 ---
 
+## Excel Sheet QuCode 21 Days Challenge Resource:- [https://www.qucode.in](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)
 ## 📌 Submission Instructions
 
 Submit daily tasks via the form link shared in the community group.  
