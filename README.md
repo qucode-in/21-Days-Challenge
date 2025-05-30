@@ -13,9 +13,9 @@ Welcome to the **21-Day Quantum Computing Challenge** — your pathway to master
 By the end of this challenge, you will:
 - ✅ Understand core quantum concepts: Superposition, Entanglement, Measurement.
 - ✅ Build and simulate quantum circuits using **Qiskit**, **Cirq**, or **PennyLane**.
-- ✅ Implement foundational quantum algorithms: Grover’s, Shor’s, and more.
-- ✅ Explore Quantum Machine Learning and NISQ era topics.
-- ✅ Earn a **Certificate of Completion** (co-branded by QuCode & KwantumG Research Labs).
+- ✅ Implement foundational quantum algorithms: GDeutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
+- ✅ Explore Quantum Machine Learning QALgorithm and QCrptography.
+- ✅ Earn a **Certificate of Completion** (QuCode & KwantumG Research Labs).
 
 ---
 
@@ -29,27 +29,30 @@ By the end of this challenge, you will:
 | 4    | Classical Computing & Boolean Algebra          |
 | 5    | Linear Algebra for Quantum Computing           |
 | 6    | Dirac Notation & Hilbert Spaces                |
-| 7    | Quantum Mechanics Basics                       |
-| 8    | Qubits & Bloch Sphere (Hands-on Task)          |
+| 7    | Quantum Mechanics Basics     & **Expert Session                  |
+| 8    | Qubits & Bloch Sphere (Hands-on Task) ***         |
 | 9    | Quantum Gates & Circuits                       |
 | 10   | Superposition & Interference                   |
 | 11   | Quantum Entanglement                           |
 | 12   | Measurement & No-Cloning Theorem               |
 | 13   | Quantum Computing Models                       |
-| 14   | Quantum Programming Basics                     |
-| 15   | Quantum Fourier Transform (Hands-on Task)      |
+| 14   | Quantum Programming Basics   &** Expert Session                   |
+| 15   | Quantum Fourier Transform (Hands-on Task) ***     |
 | 16   | Shor’s Algorithm & Quantum Cryptography        |
 | 17   | Grover’s Algorithm & Search Problems           |
 | 18   | Variational Quantum Algorithms                 |
 | 19   | Quantum Machine Learning Basics                |
 | 20   | Noise, Error Correction & NISQ Era Computing   |
-| 21   | Future of Quantum Computing & Applications     |
+| 21   | Future of Quantum Computing & Applications &** Expert Session     |
+
+** - Expert Session on 7/14/21th June
+and ** - Hands-on Exercise on 8th and 15th June.
 
 ---
 ##✨ Hands-on Task Summary
 Date	Task	Deliverables
 8 June (Day 8)	   Build simple circuits:      X, H, Z, CNOT, Bell stat
-15 June (Day 15)	Choose 1 algorithm: Run Anyone QAlgo on Simulator-     Deutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
+15 June (Day 15)	Choose 1 algorithm: Run Anyone QAlgo on Simulator-  Deutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
 
 ✅ Upload tasks as .ipynb notebooks with outputs.
 ✅ Platforms: Qiskit, Cirq, PennyLane (choose any). Same Google form for daily submission.
@@ -112,10 +115,11 @@ Date	Task	Deliverables
 
 
 ## Excel Sheet QuCode 21 Days Challenge Resource:- [QuCode Resource](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)
+or check through our [Qucode website](https://www.qucode.in/quresource.html)
 
 ## 📌 Submission Instructions
 
-Submit daily tasks via the form link shared in the community group.  
+Submit daily tasks via the form link shared in the community group.  [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdvLKex13IVoV9AnplVha1PewxcUNt2WZGYZenHPE3cmMAZMA/viewform ) Daily Submit + Upload Hands-on on 8 and 15th.
 For queries, reach out via email or LinkedIn.  
 
 Note : Must join 
