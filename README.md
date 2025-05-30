@@ -1,7 +1,8 @@
 # 🌌 QuCode 21-Day Quantum Computing Challenge
 
 **🗓️ Dates:** 1st June 2025 – 21st June 2025  
-**🧠 Organized by:** [QuCode](https://www.qucode.in) & Sponser by [KwantumG Research Labs](https://kwantumg.com/)  
+**🧠 Organized by:** [QuCode](https://www.qucode.in) & 
+Sponsored by [KwantumG Research Labs](https://kwantumg.com/)  
 
 ---
 
