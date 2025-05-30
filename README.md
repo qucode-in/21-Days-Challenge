@@ -1,7 +1,7 @@
 # 🌌 QuCode 21-Day Quantum Computing Challenge
 
 **🗓️ Dates:** 1st June 2025 – 21st June 2025  
-**🧠 Organized by:** [QuCode](https://www.qucode.in) & [KwantumG Research Labs](https://kwantumg.com/)  
+**🧠 Organized by:** [QuCode](https://www.qucode.in) & Sponser by [KwantumG Research Labs](https://kwantumg.com/)  
 
 ---
 
@@ -45,11 +45,24 @@ By the end of this challenge, you will:
 | 21   | Future of Quantum Computing & Applications     |
 
 ---
+##✨ Hands-on Task Summary
+Date	Task	Deliverables
+8 June (Day 8)	   Build simple circuits:      X, H, Z, CNOT, Bell stat
+15 June (Day 15)	Choose 1 algorithm: Run Anyone QAlgo on Simulator-     Deutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
+
+✅ Upload tasks as .ipynb notebooks with outputs.
+✅ Platforms: Qiskit, Cirq, PennyLane (choose any). Same Google form for daily submission.
+
+##🌟 Expert Sessions by KwantumG Research Labs
+✅ 7 June – Career Guidance in Quantum Computing
+✅ 14 June – Quantum Applications (QML/QAlgo/QCrypt)
+✅ 21 June – Final Q&A, Future of Quantum Computing/Announcements.
+
 
 ## 🏆 Certificate Criteria
 
 🎓 To qualify for the Certificate of Completion:
-- Submit **daily tasks** via the Google Form ([link provided in the challenge community]).
+- Submit **daily tasks** via the Google Form ([https://docs.google.com/forms/d/e/1FAIpQLSdvLKex13IVoV9AnplVha1PewxcUNt2WZGYZenHPE3cmMAZMA/viewform]).
 - Be **consistent for at least 15 days** (out of 21).
 - **Mandatory:** Submit hands-on code for Days 8 & 15 (`.ipynb` file).
 - Attend at least **2 out of 3 live sessions**.
@@ -88,18 +101,24 @@ By the end of this challenge, you will:
   - [X (Twitter)](https://x.com/Qucodes)
   - [YouTube](https://www.youtube.com/@Qu-Code)
   - [Instagram](https://www.instagram.com/qucode_in/?igsh=M2d4eWkwcmRkbmJv&utm_source=qr#)
+  - [Discord](https://discord.gg/r5ZSDtAE)
 
 - 📧 Email: [qucode.in@gmail.com](mailto:qucode.in@gmail.com)  
 - 🌐 Website: [https://www.qucode.in](https://www.qucode.in)
 
 ---
 
-## Excel Sheet QuCode 21 Days Challenge Resource:- [https://www.qucode.in](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)
+
+
+## Excel Sheet QuCode 21 Days Challenge Resource:- [QuCode Resource](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)
+
 ## 📌 Submission Instructions
 
 Submit daily tasks via the form link shared in the community group.  
 For queries, reach out via email or LinkedIn.  
 
+Note : Must join 
+Telegram/WhatsApp Channel/ Discord for getting updates(Any).
 Happy Quantum Learning! 🚀
 
 ---
