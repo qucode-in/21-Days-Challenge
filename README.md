@@ -45,22 +45,25 @@ By the end of this challenge, you will:
 | 20   | Noise, Error Correction & NISQ Era Computing   |
 | 21   | Future of Quantum Computing & Applications &** Expert Session     |
 
-** - Expert Session on 7/14/21th June
-and ** - Hands-on Exercise on 8th and 15th June.
+** - Expert Session on 7/14/21th June TIMING 17:00-18:00 IST
+and ** - Hands-on Exercise on 8th and 15th June. TIMING 17:00-18:00 IST
 
 ---
-##✨ Hands-on Task Summary
+## Hands-on Task Summary
 Date	Task	Deliverables
-8 June (Day 8)	   Build simple circuits:      X, H, Z, CNOT, Bell stat
-15 June (Day 15)	Choose 1 algorithm: Run Anyone QAlgo on Simulator-  Deutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
+8 June (Day 8)	   Build simple circuits:      X, H, Z, CNOT, Bell state  TIMING 17:00-18:00 IST
+15 June (Day 15)	Choose 1 algorithm: Run Anyone QAlgo on Simulator-  Deutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/Shor's  TIMING 17:00-18:00 IST.
 
 ✅ Upload tasks as .ipynb notebooks with outputs.
 ✅ Platforms: Qiskit, Cirq, PennyLane (choose any). Same Google form for daily submission.
 
-##🌟 Expert Sessions by KwantumG Research Labs
+##  Expert Sessions by KwantumG Research Labs
 ✅ 7 June – Career Guidance in Quantum Computing
 ✅ 14 June – Quantum Applications (QML/QAlgo/QCrypt)
-✅ 21 June – Final Q&A, Future of Quantum Computing/Announcements.
+✅ 21 June – Final Q&A, Future of Quantum Computing/Announcements(Bonus).
+
+## Hands-On Session by QuCode Team.
+TIMING 17:00-18:00 IST on 8th and 15th JUNE 25.
 
 
 ## 🏆 Certificate Criteria
