@@ -11,11 +11,12 @@ Excess Resources from Website / Excel Sheet from here: https://docs.google.com/s
 Welcome to the **21-Day Quantum Computing Challenge** — your pathway to mastering Quantum Computing fundamentals, hands-on coding, and exploring real-world applications.
 
 By the end of this challenge, you will:
-- ✅ Understand core quantum concepts: Superposition, Entanglement, Measurement.
-- ✅ Build and simulate quantum circuits using **Qiskit**, **Cirq**, or **PennyLane**.
-- ✅ Implement foundational quantum algorithms: GDeutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
-- ✅ Explore Quantum Machine Learning QALgorithm and QCrptography.
-- ✅ Earn a **Certificate of Completion** (QuCode & KwantumG Research Labs).
+- Understand core quantum concepts: Superposition, Entanglement, Measurement.
+- Build and simulate quantum circuits using **Qiskit**, **Cirq**, or **PennyLane**.
+-  Implement foundational quantum algorithms: GDeutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
+-  Explore Quantum Machine Learning QALgorithm and QCrptography.
+-  Earn a **Certificate of Completion** (QuCode & KwantumG Research Labs).
+-  Top 10 folk's Name with daily update and sharing amazing post will be on our Website.
 
 ---
 
