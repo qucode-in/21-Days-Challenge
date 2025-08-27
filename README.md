@@ -4,7 +4,7 @@
 **🧠 Organized by:** [QuCode](https://www.qucode.in) & 
 Knowledge Partner by [KwantumG Research Labs](https://kwantumg.com/)  
 
-Excess Resources from Website / Excel Sheer from here: https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0
+Excess Resources from Website / Excel Sheet from here: https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0
 
 ## 🚀 Overview
 
@@ -47,7 +47,7 @@ By the end of this challenge, you will:
 
 ** - Expert Session Will be Dates and Time will be updated soon
 and ** - Hands-on Will  be Dates and Time will be updated soon
-
+9:00-10:00PM IST
 ---
 ## Hands-on Task Summary
 Date	Task	Deliverables
@@ -63,18 +63,19 @@ Choose 1 algorithm: Run Anyone QAlgo on Simulator-  Deutsch-Jozsa/ Bernstein-Vaz
 ✅  Final Q&A, Future of Quantum Computing/Announcements(Bonus).
 
 ## Hands-On Session by QuCode Team.
-TIMING 17:00-18:00 IST on 8th and 15th JUNE 25.
+TIMING 9:00-10:00PM IST 
 
 
 ## 🏆 Certificate Criteria
 
 🎓 To qualify for the Certificate of Completion:
 - Submit **daily tasks** via the Google Form  https://forms.gle/TRsj3BDfttWBBqc59  By same mail Id from which you registered.
-- Be **consistent for at least 15 days** (out of 21).
-- **Mandatory:** Submit hands-on code (`.ipynb` file).
-- Try to Attend live sessions.
-
+- Be **consistent for at least 15 days** (out of 21) (Daily Submit Form)
+- **Mandatory:** Submit hands-on code (`.ipynb` file). 
+- Mandatory to attend session and submit Attendance by Google Form By Adding (Secret Key) for that session.
 ---
+
+Also Top 10 Folks will Get Their name on our website.
 
 ## 💻 Installation & Setup
 
