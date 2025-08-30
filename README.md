@@ -22,7 +22,7 @@ By the end of this challenge, participants will:
 - ✅ Earn a **Certificate of Completion** (jointly issued by QuCode & KwantumG Research Labs).  
 - ✅ Be featured in the **Top 10 Leaderboard** on the QuCode website.  
 
-Check past winners here → [Qohort-2 Champs](https://qucode.in/challenge.html)  
+Check past winners here → [Qohort-2 Top Folks](https://qucode.in/challenge.html)  
 
 ---
 
