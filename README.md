@@ -1,88 +1,108 @@
-# 🌌 QuCode 21-Day Quantum Computing Challenge - Qohort -3
+# 🌌 QuCode 21-Day Quantum Computing Challenge – Qohort 3  
 
-**🗓️ Dates:** 1st September - 21st September 
-**🧠 Organized by:** [QuCode](https://www.qucode.in) & 
-Knowledge Partner by [KwantumG Research Labs](https://kwantumg.com/)  
+**📅 Dates:** 1st September – 21st September  
+**🧠 Organized by:** [QuCode](https://www.qucode.in)  
+**📑 Knowledge Partner:** [KwantumG Research Labs](https://kwantumg.com/)  
 
-Excess Resources from Website / Excel Sheet from here: https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0
-
-## 🚀 Overview
-
-Welcome to the **21-Day Quantum Computing Challenge** — your pathway to mastering Quantum Computing fundamentals, hands-on coding, and exploring real-world applications.
-
-By the end of this challenge, you will:
-- Understand core quantum concepts: Superposition, Entanglement, Measurement.
-- Build and simulate quantum circuits using **Qiskit**, **Cirq**, or **PennyLane**.
--  Implement foundational quantum algorithms: GDeutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/
--  Explore Quantum Machine Learning QALgorithm and QCrptography.
--  Earn a **Certificate of Completion** (QuCode & KwantumG Research Labs).
--  Top 10 folk's Name with daily update and sharing amazing post will be on our Website.
+📂 Access additional resources: [QuCode Free Resource Roadmap](https://qucode.in/quresource.html)  
+📊 Detailed syllabus & resources: [Google Sheet](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)  
 
 ---
 
-## 📝 Daily Topics
+## 🚀 Overview  
 
-| Day  | Topic                                           |
-| :--- | :---------------------------------------------- |
-| 1    | Complex Numbers & Linear Algebra Basics        |
-| 2    | Probability Theory & Statistics                |
-| 3    | Quantum vs. Classical Mechanics                |
-| 4    | Classical Computing & Boolean Algebra          |
-| 5    | Linear Algebra for Quantum Computing           |
-| 6    | Dirac Notation & Hilbert Spaces                |
-| 7    | Quantum Mechanics Basics     & **Expert Session                  |
-| 8    | Qubits & Bloch Sphere (Hands-on Task) ***         |
-| 9    | Quantum Gates & Circuits                       |
-| 10   | Superposition & Interference                   |
-| 11   | Quantum Entanglement                           |
-| 12   | Measurement & No-Cloning Theorem               |
-| 13   | Quantum Computing Models                       |
-| 14   | Quantum Programming Basics   &** Expert Session                   |
-| 15   | Quantum Fourier Transform (Hands-on Task) ***     |
-| 16   | Shor’s Algorithm & Quantum Cryptography        |
-| 17   | Grover’s Algorithm & Search Problems           |
-| 18   | Variational Quantum Algorithms                 |
-| 19   | Quantum Machine Learning Basics                |
-| 20   | Noise, Error Correction & NISQ Era Computing   |
-| 21   | Future of Quantum Computing & Applications &** Expert Session     |
+The **21-Day Quantum Computing Challenge (Qohort 3)** is designed to help learners build strong fundamentals in quantum mechanics, hands-on coding skills, and applied quantum computing concepts.  
 
-** - Expert Session Will be Dates and Time will be updated soon
-and ** - Hands-on Will  be Dates and Time will be updated soon
-9:00-10:00PM IST
+By the end of this challenge, participants will:  
+- ✅ Understand **core quantum concepts**: Superposition, Entanglement, Measurement.  
+- ✅ Build and simulate **quantum circuits** using **Qiskit / Cirq / PennyLane**.  
+- ✅ Implement foundational quantum algorithms: **Shor’s Algorithm, Grover’s Algorithm, QFT**.  
+- ✅ Explore **Quantum Machine Learning** and **Quantum Cryptography**.  
+- ✅ Attend **expert-led sessions** with guidance on careers & research.  
+- ✅ Earn a **Certificate of Completion** (jointly issued by QuCode & KwantumG Research Labs).  
+- ✅ Be featured in the **Top 10 Leaderboard** on the QuCode website.  
+
+Check past winners here → [Qohort-2 Champs](https://qucode.in/challenge.html)  
+
 ---
-## Hands-on Task Summary
-Date	Task	Deliverables
-Build simple circuits:      X, H, Z, CNOT, Bell state  TIMING 17:00-18:00 IST
-Choose 1 algorithm: Run Anyone QAlgo on Simulator-  Deutsch-Jozsa/ Bernstein-Vazirani/ Grover’s	Code/Shor's  TIMING 17:00-18:00 IST.
 
-✅ Upload tasks as .ipynb notebooks with outputs.
-✅ Platforms: Qiskit, Cirq, PennyLane (choose any). Same Google form for daily submission.
+## 📅 Daily Learning Path  
 
-##  Expert Sessions 
-✅  Career Guidance in Quantum Computing
-✅  Quantum Applications (QML/QAlgo/QCrypt)
-✅  Final Q&A, Future of Quantum Computing/Announcements(Bonus).
+| Day  | Topic                                         |
+| :--- | :-------------------------------------------- |
+| 1    | Complex Numbers & Linear Algebra Basics       |
+| 2    | Probability Theory & Statistics               |
+| 3    | Quantum vs. Classical Mechanics               |
+| 4    | Classical Computing & Boolean Algebra         |
+| 5    | Linear Algebra for Quantum Computing          |
+| 6    | Dirac Notation & Hilbert Spaces               |
+| 7    | Quantum Mechanics Basics **(Expert Session)** |
+| 8    | Qubits & Bloch Sphere *(Hands-on Task)*       |
+| 9    | Quantum Gates & Circuits                      |
+| 10   | Superposition & Interference                  |
+| 11   | Quantum Entanglement                          |
+| 12   | Measurement & No-Cloning Theorem              |
+| 13   | Quantum Computing Models **(Expert Session)** |
+| 14   | Quantum Programming Basics **(Expert Session)** |
+| 15   | Quantum Fourier Transform *(Hands-on Task)*   |
+| 16   | Shor’s Algorithm & Quantum Cryptography       |
+| 17   | Grover’s Algorithm & Quantum Search Problems  |
+| 18   | Variational Quantum Algorithms                |
+| 19   | Quantum Machine Learning (QML)                |
+| 20   | Noise, Error Correction & NISQ Era Computing **(Expert Session)** |
+| 21   | Future of Quantum Computing **(Expert Session)** |  
 
-## Hands-On Session by QuCode Team.
-TIMING 9:00-10:00PM IST 
+🕘 **Expert Sessions Timing:** 9:00 – 10:00 PM IST (Sept 6, 7, 13, 14, 20, 21).  
 
-
-## 🏆 Certificate Criteria
-
-🎓 To qualify for the Certificate of Completion:
-- Submit **daily tasks** via the Google Form  https://forms.gle/TRsj3BDfttWBBqc59  By same mail Id from which you registered.
-- Be **consistent for at least 15 days** (out of 21) (Daily Submit Form)
-- **Mandatory:** Submit hands-on code (`.ipynb` file). 
-- Mandatory to attend session and submit Attendance by Google Form By Adding (Secret Key) for that session.
 ---
+
+## 🛠️ Hands-On Tasks  
+
+| Task | Activity | Deliverables |
+|------|----------|--------------|
+| Hands-On 1 | Build simple circuits (X, H, Z, CNOT, Bell State) | `.ipynb` notebook |
+| Hands-On 2 | Implement a chosen algorithm (e.g., Shor’s) | `.ipynb` notebook by **22-Sept-2025** |  
+
+📌 Upload all tasks as Jupyter Notebooks (`.ipynb`) with outputs.  
+📌 Platforms supported: **Qiskit, Cirq, PennyLane**.  
+📌 Submission via the same form: [Google Form – Daily & Task Uploads](https://forms.gle/TRsj3BDfttWBBqc59).  
+
+---
+
+## 🎓 Certificate & Recognition  
+
+To qualify for the **Certificate of Completion**:  
+- ✅ Submit **daily tasks** (minimum 15 out of 21 days).  
+- ✅ Upload both **hands-on assignments** in `.ipynb` format.  
+- ✅ Attend **expert sessions** and submit attendance via the official form.  
+- ✅ Use the same **registered email ID** for all submissions.  
+
+🏆 **Leaderboard:** Top 10 most consistent & active learners will be featured on the QuCode website.  
+
+📌 Attendance Form: [Session Attendance Form](https://forms.gle/SZa4TsCspdxcTPPn7)  
+
+---
+
+## 💻 Setup & Installation  
+
+### Prerequisites  
+- Python 3.8+  
+- Jupyter Notebook / VS Code / Google Colab  
+
+### Install Quantum Libraries  
+
+pip install qiskit
+pip install cirq
+pip install pennylane
+
 
 Also Top 10 Folks will Get Their name on our website.
 
 ## 💻 Installation & Setup
 
 ### Prerequisites
-- Python 3.8+
-- Jupyter Notebook
+- Python 
+- Jupyter Notebook / VS CODE/ Google Collab.
 - **Quantum Libraries**: Choose one:
   - Qiskit: `pip install qiskit`
   - Cirq: `pip install cirq`
@@ -98,6 +118,22 @@ Also Top 10 Folks will Get Their name on our website.
 - [AdvancedMathsQC Playlist](https://www.youtube.com/watch?v=zm64o27eHYw&list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
 - [Brilliant Quantum Computing Course](https://brilliant.org/courses/quantum-computing/?courseSlug=quantum-computing)
 - [Qubit by Qubit](https://www.qubitbyqubit.org/)
+
+
+
+
+## Excel Sheet QuCode 21 Days Challenge Resource:- [QuCode Resource](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)
+or check through our [Qucode website](https://www.qucode.in/quresource.html)
+
+## 📌 Submission Instructions
+
+Submit daily tasks via the form link shared in the community group.  [Google Form](https://forms.gle/TRsj3BDfttWBBqc59)
+ Submit + Upload Hands-on
+For queries, reach out via email or LinkedIn.  
+
+Note : Must join 
+Telegram/WhatsApp Channel/ Discord for getting updates(Any).
+Happy Quantum Learning! 🚀
 
 ---
 
@@ -116,21 +152,6 @@ Also Top 10 Folks will Get Their name on our website.
 - 🌐 Website: [https://www.qucode.in](https://www.qucode.in)
 
 ---
-
-
-
-## Excel Sheet QuCode 21 Days Challenge Resource:- [QuCode Resource](https://docs.google.com/spreadsheets/d/1zuaEXlzuceRqMTcACMYRPVpQCNLzmsYDkYVVQ5bZS3Q/edit?gid=0#gid=0)
-or check through our [Qucode website](https://www.qucode.in/quresource.html)
-
-## 📌 Submission Instructions
-
-Submit daily tasks via the form link shared in the community group.  [Google Form]Daily  https://forms.gle/TRsj3BDfttWBBqc59
- Submit + Upload Hands-on
-For queries, reach out via email or LinkedIn.  
-
-Note : Must join 
-Telegram/WhatsApp Channel/ Discord for getting updates(Any).
-Happy Quantum Learning! 🚀
 
 ---
 
